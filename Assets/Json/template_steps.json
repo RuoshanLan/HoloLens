@@ -1,0 +1,16 @@
+{
+	"steps":
+	[
+	{
+        "name": "step1",
+		"interaction_way": "pick up/click/grab/teleport/gaze",
+		"start_status": "where it ",
+		"end_status": "what is changed compared with start status", 
+		"speed": "fast/slow/medium",
+		"tools": "if available",
+        "items": ""
+	}
+	]
+       
+}
+

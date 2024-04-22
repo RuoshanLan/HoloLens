@@ -1,0 +1,21 @@
+{
+    "items" :
+	[ 
+    {      
+		"name": "display",
+		"position":[-18,0.908,-5.822001]
+    },
+	{
+		"name": "pc",
+		"position":[-18.222,0,-7.288]
+	},
+	{
+		"name": "Keyboard",
+		"position":[-18.349,0.9222,-5.832]
+	},
+	{
+		"name": "coffie",
+		"position":[-18.089,0.913,-6.295]
+	}
+    ] 
+}
